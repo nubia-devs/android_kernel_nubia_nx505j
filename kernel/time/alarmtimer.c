@@ -26,11 +26,7 @@
 #include <linux/workqueue.h>
 #include <linux/freezer.h>
 
-<<<<<<< HEAD
 #define ALARM_DELTA 300
-=======
-#define ALARM_DELTA 120
->>>>>>> 788799f... alarmtimers: Squash upstream changes
 
 /**
  * struct alarm_base - Alarm timer bases
